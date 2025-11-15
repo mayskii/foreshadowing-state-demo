@@ -18,3 +18,14 @@ body {
     rgb(86, 204, 204)
   );
 }
+
+.dark-mode {
+  background: #222;
+  color: white;
+}
+
+.light-mode {
+  background: white;
+  color: black;
+}
+
